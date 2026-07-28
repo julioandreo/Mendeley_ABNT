@@ -313,3 +313,17 @@ Este é um estilo independente, desenvolvido com base nas normas indicadas.
 O arquivo não constitui publicação oficial da Associação Brasileira de Normas Técnicas, da Universidade Federal de Uberlândia, do Mendeley, do Zotero ou da OpenAI.
 
 A conferência final das citações e referências permanece sob responsabilidade do autor do trabalho acadêmico.
+
+---
+
+## Instalação
+
+No Mendeley Cite, no Word, em Citation Settings > Change citation style > Add a custom style , e use um dos dois links abaixo:
+
+Para Citações com página Autor (Data, Página), use o link:
+
+https://raw.githubusercontent.com/julioandreo/Mendeley_ABNT/main/abnt-nbr-10520-2023-nbr-6023-2025-julio-andreo.csl
+
+Para Citações sem página Autor (Data), use o link:
+
+https://raw.githubusercontent.com/julioandreo/Mendeley_ABNT/main/abnt-nbr-10520-2023-nbr-6023-2025-julio-andreo-sem-pagina.csl
